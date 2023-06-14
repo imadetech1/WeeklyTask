@@ -1,0 +1,8 @@
+C:\Users\Decagon\Desktop\week 3\Scratch1Bank\bin\Debug\Scratch1Bank.exe.config
+C:\Users\Decagon\Desktop\week 3\Scratch1Bank\bin\Debug\Scratch1Bank.exe
+C:\Users\Decagon\Desktop\week 3\Scratch1Bank\bin\Debug\Scratch1Bank.pdb
+C:\Users\Decagon\Desktop\week 3\Scratch1Bank\obj\Debug\Scratch1Bank.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\week 3\Scratch1Bank\obj\Debug\Scratch1Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Decagon\Desktop\week 3\Scratch1Bank\obj\Debug\Scratch1Bank.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\week 3\Scratch1Bank\obj\Debug\Scratch1Bank.exe
+C:\Users\Decagon\Desktop\week 3\Scratch1Bank\obj\Debug\Scratch1Bank.pdb
